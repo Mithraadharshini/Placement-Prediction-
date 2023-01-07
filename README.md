@@ -1,1 +1,2 @@
 # Placement-Prediction-
+Placement Prediction system can be used by education institutes and companies to maintain the records of placements easily. Web application determined the chances of a student getting placed during the On campus Placement drive using parameters like GPA, Technical knowledge among others. Once a Student takes all the Technical tests, then we determine the chances of student getting placed, based on CGPA. This project consists of Module:Student,Admin and company.
